@@ -1,7 +1,6 @@
 {
   "name": "ws",
   "version": "1.0.0",
-  "description": "",
   "main": "test.js",
   "dependencies": {
     "express": "^4.15.2"
@@ -19,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/fastmir/firstfast/issues"
   },
-  "homepage": "https://github.com/fastmir/firstfast#readme"
+  "homepage": "https://github.com/fastmir/firstfast#readme",
+  "description": ""
 }
