@@ -1,23 +1,22 @@
 {
   "name": "ws",
   "version": "1.0.0",
-  "main": "test.js",
-  "dependencies": {
-    "express": "^4.15.2"
-  },
-  "devDependencies": {},
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fastmir/firstfast.git"
+    "url": "git+https://github.com/fastmir/fastmir2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fastmir/firstfast/issues"
+    "url": "https://github.com/fastmir/fastmir2/issues"
   },
-  "homepage": "https://github.com/fastmir/firstfast#readme",
-  "description": ""
+  "homepage": "https://github.com/fastmir/fastmir2#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
